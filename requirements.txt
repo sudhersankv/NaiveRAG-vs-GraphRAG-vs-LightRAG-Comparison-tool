@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+python-dotenv
+spacy
+neo4j
+PyPDF2
+requests
+ollama 
